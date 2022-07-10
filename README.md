@@ -1,7 +1,7 @@
 # 66days_ML
 All about my learning journey of this Machine Learning!
 
-🏆 **Day 2** of #66DaysOfML!
+🏆 **Day 1of #66DaysOfML!** 
 
 💡 **MLflow:**
 The Model Registry component is a centralized model store, set of APIs, and a UI, to collaboratively manage the full lifecycle of an MLflow Model. It provides Model lineage, Model versioning, Stage transitions & Annotations. A client of an MLflow Tracking Server creates and manages experiments and runs.
