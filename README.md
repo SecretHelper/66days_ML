@@ -13,6 +13,13 @@ The Model Registry component is a centralized model store, set of APIs, and a UI
 
 
 
+
+
+
+
+
+
+
 ## **🚀 About Me**
 I'm a Machine Learning Practitioner working towards MLOPs and AWS Cloud.
 
