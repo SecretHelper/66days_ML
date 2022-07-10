@@ -1,4 +1,4 @@
-# 66days_ML
+# **66days_Machine Learning**
 All about my learning journey of this Machine Learning!
 
 🏆 **Day 1of #66DaysOfML!** 
