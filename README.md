@@ -11,8 +11,10 @@ The Model Registry component is a centralized model store, set of APIs, and a UI
 📈 I have presented the implementation of Model Training here in the snapshot. I hope you will gain some insights and spend some time learning the topics from the course mentioned below. Excited about the days ahead.
 
 
-## 🚀 About Me
+
+
+## **🚀 About Me**
 I'm a Machine Learning Practitioner working towards MLOPs and AWS Cloud.
 
-## 🛠 Skills
+## **🛠 Skills**
 Python, Tensorflow, Scikit Learn.
